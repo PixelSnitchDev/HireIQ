@@ -7,7 +7,7 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-AUC%201.0-yellow)
 ![Groq](https://img.shields.io/badge/LLM-Llama%203.3%2070B-purple)
 
-> Rank candidates the way a great recruiter would — not by matching keywords, but by actually understanding who fits the role.
+> Rank candidates the way a great recruiter would not by matching keywords, but by actually understanding who fits the role.
 
 ## The Problem
 
